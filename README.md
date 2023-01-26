@@ -1,1 +1,1 @@
-# snake-js
+Good 'ol Snake in vanilla Js
